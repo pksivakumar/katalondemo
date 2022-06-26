@@ -11,17 +11,17 @@ This suite is built using Selenium BDD framework using Java and Cucumber with Pa
 
 **Prerequisite**
 
-Java 8 or above
-Chromedriver(already added if use the cloned project)
-Intellij IDE
+1. Java 8 or above
+2. Chromedriver(already added if use the cloned project)
+3. Intellij IDE
 
 
 **How to Execute the suite**
 
-Navigate to GitHub and clone this project
-Open terminal and go the cloned repository directory
-Give maven clean verify and press enter
-Test suite will be run and results are present in target/cucumber-report/index.html
+1. Navigate to GitHub and clone this project
+2. Open terminal and go the cloned repository directory
+3. Give maven clean verify and press enter
+4. Test suite will be run and results are present in target/cucumber-report/index.html
 
 
 **Browser**
