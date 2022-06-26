@@ -31,9 +31,9 @@ Added chromedriver in driver location for mac machine
 
 **Improvements**
 
-Crossbrowser testing could have been achieved
-Results can be shared through emails or communication channels like slack
-Could be integrated with CI pipelines like Travis or Jenkins
+1. Crossbrowser testing could have been achieved
+2. Results can be shared through emails or communication channels like slack
+3. Could be integrated with CI pipelines like Travis or Jenkins
 
 <img width="1356" alt="Screenshot 2022-06-26 at 05 05 47" src="https://user-images.githubusercontent.com/1901929/175800087-78cf737d-20ea-40eb-9427-411d65dcd4de.png">
 <img width="1203" alt="Screenshot 2022-06-26 at 05 06 05" src="https://user-images.githubusercontent.com/1901929/175800089-429f1404-e95d-4a12-a07c-3bc5948959db.png">
